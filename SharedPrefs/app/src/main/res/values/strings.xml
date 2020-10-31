@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPrefs</string>
+    <string name="save_button">Save</string>
+    <string name="enter_message">Enter Message</string>
+</resources>
